@@ -1,0 +1,8 @@
+com\mycompany\carnetadresses\CarnetAdresses.class
+com\mycompany\carnetadresses\DatabaseConnection.class
+com\mycompany\carnetadresses\resources\JakartaEE10Resource.class
+com\mycompany\carnetadresses\Adresse.class
+com\mycompany\carnetadresses\CarnetServlet.class
+com\mycompany\carnetadresses\JakartaRestConfiguration.class
+com\mycompany\carnetadresses\AdresseDAO.class
+com\mycompany\carnetadresses\AdresseNonTrouveeException.class
